@@ -10,6 +10,7 @@ Video prueba de Widget e Integracion
 https://drive.google.com/file/d/1D_G9hzZjbMBIXu3k2aW6Gq-hhnbU1Jfm/view?usp=sharing
 
 GitHub Proyecto final para Demo de Aplicacion
+https://github.com/lpeniche7/nivelacion-mintic
 
 
 GitHub Proyecto final para pruebas de widget por la web
